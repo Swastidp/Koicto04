@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SWastidip
+- 👋 Hi, I’m Swastidip
 - 👀 I’m interested in App development 
 - 🌱 I’m intermediate in flutterflow
 -    I've learned c,c++, python, java
